@@ -1,0 +1,14 @@
+{
+  "name": "encuesta-preinscripcion-vuejs",
+  "description": "a really cool app",
+  "version": "0.0.1",
+  "engines": {
+    "node": "6.11.3"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "bower": "^1.8.2"
+  }
+}
