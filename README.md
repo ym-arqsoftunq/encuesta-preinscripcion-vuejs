@@ -1,4 +1,4 @@
-#Aplicacion vue realizada con vue-cli basada en el template webpack-simple
+# Aplicacion vue realizada con vue-cli basada en el template webpack-simple
 
 Para hacer request utilizo axios
 
