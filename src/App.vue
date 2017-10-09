@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <!-- <img src="./assets/logo.png"> -->
+    <img src="http://www.unq.edu.ar/images/logo_unqui.png">    
     <router-view></router-view>
   </div>
 </template>
